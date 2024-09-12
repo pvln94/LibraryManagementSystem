@@ -1,4 +1,4 @@
-# LibraryManagementSysytem
+# LibraryManagementSystem
 
 ## 1. To view how does a website look, you can go through "UserInterface_LibraryManagement".
 ## 2. To know what operations does each page perform, go through "Functionality_of_LibraryManagement".
