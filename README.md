@@ -1,6 +1,6 @@
 # LibraryManagementSysytem
 
-# Demo: (Note: As the video is too large, you can view it on my ["Linkedin"](https://www.linkedin.com/feed/update/urn:li:activity:7232799497750208513/).
+# Demo: (Note: As the video is too large, you can view it on my ["Linkedin"](https://www.linkedin.com/feed/update/urn:li:activity:7232799497750208513/)).
 
 ## 1. To view how does a website look, you can go through "UserInterface_LibraryManagement".
 ## 2. To know what operations does each page perform, go through "Functionality_of_LibraryManagement".
